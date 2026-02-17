@@ -1,0 +1,11 @@
+/chhumi-website
+  ├── index.html
+  ├── css/
+  │    └── styles.css
+  ├── js/
+  │    └── main.js
+  ├── data/
+  │    ├── config.json
+  │    └── products.json
+  └── assets/
+       └── images/ (optional - for local images)
